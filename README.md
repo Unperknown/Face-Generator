@@ -10,10 +10,10 @@ This archive contains a source code of 'Anime Face Generator' during hackathon. 
 
 ## Results
 
-![Results](/Results/1.jpg)
-![Results](/Results/2.jpg)
-![Results](/Results/3.jpg)
-![Results](/Results/4.jpg)
-![Results](/Results/5.jpg)
-![Results](/Results/6.jpg)
-![Results](/Results/7.jpg)
+<img src="/Results/1.png" width="20" height="100" />
+<img src="/Results/2.png" width="20" height="100" />
+<img src="/Results/3.png" width="20" height="100" />
+<img src="/Results/4.png" width="20" height="100" />
+<img src="/Results/5.png" width="20" height="100" />
+<img src="/Results/6.png" width="20" height="100" />
+<img src="/Results/7.png" width="20" height="100" />
